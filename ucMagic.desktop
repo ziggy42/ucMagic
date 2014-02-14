@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ucMagic
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/ucMagic/ucMagic.qml
+Icon=ucmagic.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
